@@ -1,0 +1,6 @@
+{
+  "name": "حاسبة وتبريد الأسهم المصرية (EGX)",
+  "description": "حاسبة التبريد وتكلفة المتوسطات وحساب عمولات البورصة المصرية وتطبيق ثاندر بدقة عالية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
